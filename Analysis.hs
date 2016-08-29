@@ -115,4 +115,4 @@ analysisCiphertext alpha Hill text = error "Not implemented"
 
 
 analysisPlaintext :: Alphabet -> CipherType -> String -> String -> Cipher
-analysisPlaintext alpha Hill ciphtxt plaintxt = 
+analysisPlaintext alpha Hill ciphtxt plaintxt = error "Not yet implemented" 
